@@ -1,0 +1,5 @@
+1599501618311	Delete resource '010_binarySema_taskSync'
+1599506919202	Delete resource '010_binarySemaphore_TaskSynch2'
+1599637331708	Delete resource '011_CntSemaphore_EventLatch/Debug/010_binarySemaphore_TaskSynch.elf'
+1599649366927	Delete resource '012_Mutex_using_BinarySemaphore/Debug/001_HelloWorld.elf'
+1599840207619	Delete resource '013_Mutex_using_MutexAPI/Debug/012_Mutex_using_BinarySemaphore.elf'

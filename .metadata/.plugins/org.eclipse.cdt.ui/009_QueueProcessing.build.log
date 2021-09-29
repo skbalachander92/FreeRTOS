@@ -1,0 +1,10 @@
+14:45:28 **** Incremental Build of configuration Debug for project 009_QueueProcessing ****
+make -j8 all 
+arm-none-eabi-size   009_QueueProcessing.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26980	    404	  88804	 116188	  1c5dc	009_QueueProcessing.elf
+Finished building: default.size.stdout
+ 
+
+14:45:31 Build Finished. 0 errors, 0 warnings. (took 3s.398ms)
+

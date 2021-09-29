@@ -1,0 +1,625 @@
+2020-08-05 13:03:36,151 [INFO] Activator:176 - 
+
+
+2020-08-05 13:03:36,167 [INFO] Activator:177 - !SESSION log4j initialized
+2020-08-05 13:07:04,870 [INFO] Activator:176 - 
+
+
+2020-08-05 13:07:04,870 [INFO] Activator:177 - !SESSION log4j initialized
+2020-08-05 20:08:50,541 [INFO] Activator:176 - 
+
+
+2020-08-05 20:08:50,541 [INFO] Activator:177 - !SESSION log4j initialized
+2020-08-05 20:09:16,881 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303
+2020-08-05 20:09:16,923 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/mcu/
+2020-08-05 20:09:16,927 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/boardmanager/
+2020-08-05 20:09:16,927 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/mcufinder/images/
+2020-08-05 20:09:16,935 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/mcufinder/images/
+2020-08-05 20:09:16,943 [INFO] DbMcusAds:85 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:16,943 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:16,958 [INFO] DbMcusJson:61 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:16,958 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:16,963 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,204 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-08-05 20:09:17,325 [INFO] RulesReader:52 - Compatibility file has been processed (208 Rules)
+2020-08-05 20:09:17,520 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-08-05 20:09:17,521 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/mcu/
+2020-08-05 20:09:17,521 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/boardmanager/
+2020-08-05 20:09:17,522 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/mcufinder/images/
+2020-08-05 20:09:17,524 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/mcufinder/images/
+2020-08-05 20:09:17,524 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,524 [INFO] DbMcusAds:85 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,524 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,524 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,524 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,524 [INFO] DbMcusJson:61 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,528 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,529 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,529 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,529 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,530 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,530 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,531 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-08-05 20:09:17,717 [INFO] MainPanel:181 - HeapMemory: 349175808
+2020-08-05 20:09:17,838 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/mcu/
+2020-08-05 20:09:17,838 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/boardmanager/
+2020-08-05 20:09:17,838 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/mcufinder/images/
+2020-08-05 20:09:17,838 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/mcufinder/images/
+2020-08-05 20:09:17,839 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,839 [INFO] DbMcusAds:85 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,839 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,839 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,840 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,840 [INFO] DbMcusJson:61 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,840 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,840 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,840 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,841 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/
+2020-08-05 20:09:17,841 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,841 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\vskba\.stmcufinder\plugins\mcufinder/ => C:\Users\vskba\.stmcufinder\plugins\mcufinder
+2020-08-05 20:09:17,841 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\vskba\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-08-05 20:09:17,882 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303
+2020-08-05 20:09:17,882 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, tutovideos]
+2020-08-05 20:09:17,882 [INFO] PluginManage:292 - Check plugin analytics
+2020-08-05 20:09:17,897 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-08-05 20:09:17,907 [INFO] PluginManage:292 - Check plugin clock
+2020-08-05 20:09:17,926 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-08-05 20:09:17,926 [INFO] PluginManage:292 - Check plugin ddr
+2020-08-05 20:09:17,926 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-08-05 20:09:17,932 [INFO] PluginManage:292 - Check plugin filemanager
+2020-08-05 20:09:18,062 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-08-05 20:09:18,062 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-08-05 20:09:18,080 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-08-05 20:09:18,080 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-08-05 20:09:18,091 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-08-05 20:09:18,091 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-08-05 20:09:18,123 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-08-05 20:09:18,124 [INFO] PluginManage:292 - Check plugin power
+2020-08-05 20:09:18,125 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-08-05 20:09:18,125 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-08-05 20:09:18,153 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-08-05 20:09:18,153 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-08-05 20:09:18,233 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (C:/Users/vskba/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 33 ms. number of Sw pack : 20
+2020-08-05 20:09:18,274 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-08-05 20:09:18,274 [INFO] PluginManage:292 - Check plugin tools
+2020-08-05 20:09:18,274 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-08-05 20:09:18,274 [INFO] PluginManage:292 - Check plugin tutovideos
+2020-08-05 20:09:18,274 [INFO] PluginManage:347 - Ignore plugin tutovideos (category:base)
+2020-08-05 20:09:18,279 [INFO] PluginManage:292 - Check plugin updater
+2020-08-05 20:09:18,295 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-08-05 20:09:18,296 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-08-05 20:09:18,535 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-08-05 20:09:18,680 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,680 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-08-05 20:09:18,680 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,680 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-08-05 20:09:18,691 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,692 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-08-05 20:09:18,692 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,692 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-08-05 20:09:18,692 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,692 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-08-05 20:09:18,698 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,699 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-08-05 20:09:18,700 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,700 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-08-05 20:09:18,700 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,700 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-08-05 20:09:18,709 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,709 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-08-05 20:09:18,713 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,713 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-08-05 20:09:18,719 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,719 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-08-05 20:09:18,722 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,722 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-08-05 20:09:18,725 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,725 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-08-05 20:09:18,725 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,725 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-08-05 20:09:18,725 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,725 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-08-05 20:09:18,741 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,742 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-08-05 20:09:18,745 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,745 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-08-05 20:09:18,745 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,745 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-08-05 20:09:18,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,760 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-08-05 20:09:18,763 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,763 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-08-05 20:09:18,767 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,767 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-08-05 20:09:18,770 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,770 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-08-05 20:09:18,774 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,774 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-08-05 20:09:18,774 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,774 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-08-05 20:09:18,781 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,786 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-08-05 20:09:18,786 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,786 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-08-05 20:09:18,792 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,792 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-08-05 20:09:18,792 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,792 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-08-05 20:09:18,800 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,800 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-08-05 20:09:18,800 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,800 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-08-05 20:09:18,800 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,800 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-08-05 20:09:18,800 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,800 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-08-05 20:09:18,800 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,800 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-08-05 20:09:18,800 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,800 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-08-05 20:09:18,816 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,816 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-08-05 20:09:18,818 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,818 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-08-05 20:09:18,819 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-08-05 20:09:18,819 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-08-05 20:09:19,552 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-08-05 20:09:19,553 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-08-05 20:09:19,826 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-08-05 20:09:20,076 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-08-05 20:09:20,097 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-08-05 20:09:20,098 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-08-05 20:09:20,104 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-08-05 20:09:20,105 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin
+2020-08-05 20:09:20,110 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin\STM32_Programmer_CLI.exe -l
+2020-08-05 20:09:20,226 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin
+2020-08-05 20:09:20,230 [INFO] Updater:886 - Updater Version found : 5.6.1
+2020-08-05 20:09:20,262 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303
+2020-08-05 20:09:20,413 [INFO] MainUpdater:452 - Copy updater definitions from MX database
+2020-08-05 20:09:21,104 [INFO] MainUpdater:2230 - connection check result : 10
+2020-08-05 20:09:21,104 [INFO] MainUpdater:2874 - Updater definition file requires update
+2020-08-05 20:09:21,104 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-08-05 20:09:21,119 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.60
+2020-08-05 20:09:21,232 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2020-08-05 20:09:21,258 [WARN] MainUpdater:1073 - Updater busy. Cannot search thirdparties
+2020-08-05 20:09:21,365 [INFO] FileExtend:225 - Unzip File : updaters.zip
+2020-08-05 20:09:21,365 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-08-05 20:09:24,264 [WARN] MainUpdater:1073 - Updater busy. Cannot search thirdparties
+2020-08-05 20:09:25,064 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2020-08-05 20:09:25,246 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2020-08-05 20:09:25,476 [INFO] LoadServerUpdatesThread:301 - End of LoadServerUpdate Thread
+2020-08-05 20:09:25,515 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-08-05 20:09:25,533 [INFO] MainUpdater:2230 - connection check result : 10
+2020-08-05 20:09:25,533 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-08-05 20:09:25,660 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-08-05 20:09:25,676 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-08-05 20:09:25,677 [INFO] DbMcusXml:110 - Load MCU database from C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/mcu/families.xml
+2020-08-05 20:09:26,553 [INFO] DbMcusJson:90 - JSON generation date=Mon Jul 27 18:28:30 IST 2020 (1595854710)
+2020-08-05 20:09:27,705 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (C:/Users/vskba/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-08-05 20:09:27,755 [INFO] DbMcus:171 - Found 1670 MCUs (1625 are supported by CubeMX, 1625 are visible in CubeMX)
+2020-08-05 20:09:27,755 [INFO] ApiDb:158 - Load user favorites file C:\Users\vskba/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-08-05 20:09:27,755 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-08-05 20:09:27,755 [INFO] DbMcus:183 - Set 0 / 0 favorites MCUs
+2020-08-05 20:09:27,802 [INFO] IntegrityCheckThread:98 - End integrity checks thread
+2020-08-05 20:09:29,030 [INFO] DbMcusAds:143 - JSON generation date=Mon Jul 27 20:28:30 IST 2020 (1595861910)
+2020-08-05 20:09:29,033 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-08-05 20:09:29,133 [INFO] McuDetailPanel:181 - Set advertising image to C:/Users/vskba/STM32Cube/Repository/\STM32Cube_ecosystem_N4273S_big.jpg
+2020-08-05 20:09:29,775 [INFO] McuFilterPanel:249 - Update 0 favorites MCUs
+2020-08-05 20:09:30,213 [INFO] DbBoardsPdsc:92 - Found 22 items
+2020-08-05 20:09:30,230 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-08-05 20:09:30,231 [INFO] DbBoardsPdsc:92 - Found 28 items
+2020-08-05 20:09:30,231 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-08-05 20:09:30,240 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-08-05 20:09:30,253 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-08-05 20:09:30,255 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-08-05 20:09:30,255 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-08-05 20:09:30,267 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-08-05 20:09:30,268 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-08-05 20:09:30,268 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-08-05 20:09:30,268 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-08-05 20:09:30,268 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-08-05 20:09:30,268 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-08-05 20:09:30,281 [INFO] DbBoardsJson:80 - JSON generation date=Thu Jul 02 19:05:57 IST 2020 (1593696957)
+2020-08-05 20:09:30,298 [INFO] DbBoards:120 - Found 146 boards (142 are supported by CubeMX)
+2020-08-05 20:09:30,313 [INFO] DbBoardsDocs:131 - JSON generation date=Mon Jul 27 18:28:30 IST 2020 (1595854710)
+2020-08-05 20:09:30,343 [INFO] DbBoardsDocs:70 - Found 185 boards documents
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board NUCLEO-WB35CE has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:152 - board B-G474E-DPOW1 / document id not found: 4624
+2020-08-05 20:09:30,359 [WARN] DbBoards:152 - board B-G474E-DPOW1 / document id not found: 4625
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-08-05 20:09:30,359 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-08-05 20:09:32,346 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.1.202004052303\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2020-08-05 20:09:32,347 [INFO] ApiDb:158 - Load user favorites file C:\Users\vskba/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-08-05 20:09:32,347 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-08-05 20:09:32,347 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-08-05 20:09:32,463 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-08-05 20:09:32,463 [INFO] BoardDetailPanel:180 - Set advertising image to C:/Users/vskba/STM32Cube/Repository/\STM32Cube_ecosystem_N4273S_big.jpg
+2020-08-05 20:09:32,505 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-08-05 20:09:32,669 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\vskba\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-08-05 20:10:25,887 [INFO] MainUpdater:2230 - connection check result : 10
+2020-08-05 20:10:25,888 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-08-05 20:10:25,919 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-08-05 20:10:25,919 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-08-05 20:10:26,727 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-08-05 20:10:26,727 [INFO] McuDetailPanel:181 - Set advertising image to C:/Users/vskba/STM32Cube/Repository/\STM32Cube_ecosystem_N4273S_big.jpg
+2020-08-05 20:10:26,918 [INFO] McuFilterPanel:249 - Update 0 favorites MCUs
+2020-08-05 20:10:27,058 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-08-05 20:10:27,058 [INFO] BoardDetailPanel:180 - Set advertising image to C:/Users/vskba/STM32Cube/Repository/\STM32Cube_ecosystem_N4273S_big.jpg
+2020-08-05 20:10:27,068 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-08-05 20:10:27,084 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\vskba\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-08-06 11:48:48,346 [INFO] Activator:176 - 
+
+
+2020-08-06 11:48:48,354 [INFO] Activator:177 - !SESSION log4j initialized
+2020-08-06 17:35:59,048 [INFO] Activator:176 - 
+
+
+2020-08-06 17:35:59,056 [INFO] Activator:177 - !SESSION log4j initialized
+2020-08-07 16:29:38,418 [INFO] Activator:176 - 
+
+
+2020-08-07 16:29:38,438 [INFO] Activator:177 - !SESSION log4j initialized
+2020-08-08 00:22:55,437 [INFO] Activator:176 - 
+
+
+2020-08-08 00:22:55,458 [INFO] Activator:177 - !SESSION log4j initialized
+2020-08-08 00:37:56,948 [INFO] Activator:178 - 
+
+
+2020-08-08 00:37:56,948 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-08 00:38:53,582 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2020-08-08 00:38:53,598 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2020-08-08 01:03:16,286 [INFO] Activator:178 - 
+
+
+2020-08-08 01:03:16,294 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-08 11:50:57,925 [INFO] Activator:178 - 
+
+
+2020-08-08 11:50:57,942 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-08 13:03:22,883 [INFO] Activator:178 - 
+
+
+2020-08-08 13:03:22,887 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-08 15:49:08,029 [INFO] Activator:178 - 
+
+
+2020-08-08 15:49:08,040 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-10 00:08:29,784 [INFO] Activator:178 - 
+
+
+2020-08-10 00:08:29,793 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-10 11:32:04,280 [INFO] Activator:178 - 
+
+
+2020-08-10 11:32:04,290 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-10 20:45:51,040 [INFO] Activator:178 - 
+
+
+2020-08-10 20:45:51,047 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-10 20:54:42,713 [INFO] Activator:178 - 
+
+
+2020-08-10 20:54:42,734 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-12 01:42:44,733 [INFO] Activator:178 - 
+
+
+2020-08-12 01:42:44,742 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-12 12:21:30,941 [INFO] Activator:178 - 
+
+
+2020-08-12 12:21:30,978 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-13 19:50:21,462 [INFO] Activator:178 - 
+
+
+2020-08-13 19:50:21,480 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-14 11:55:14,106 [INFO] Activator:178 - 
+
+
+2020-08-14 11:55:14,122 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-15 16:44:26,205 [INFO] Activator:178 - 
+
+
+2020-08-15 16:44:26,214 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-16 20:12:35,187 [INFO] Activator:178 - 
+
+
+2020-08-16 20:12:35,203 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-17 10:28:07,939 [INFO] Activator:178 - 
+
+
+2020-08-17 10:28:07,947 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-18 00:42:50,306 [INFO] Activator:178 - 
+
+
+2020-08-18 00:42:50,316 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-18 00:54:45,365 [INFO] Activator:178 - 
+
+
+2020-08-18 00:54:45,369 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-18 11:51:22,109 [INFO] Activator:178 - 
+
+
+2020-08-18 11:51:22,122 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-18 21:01:34,919 [INFO] Activator:178 - 
+
+
+2020-08-18 21:01:34,924 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-19 00:43:17,223 [INFO] Activator:178 - 
+
+
+2020-08-19 00:43:17,229 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-19 12:45:46,564 [INFO] Activator:178 - 
+
+
+2020-08-19 12:45:46,575 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-21 10:19:36,845 [INFO] Activator:178 - 
+
+
+2020-08-21 10:19:36,857 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-22 09:35:15,111 [INFO] Activator:178 - 
+
+
+2020-08-22 09:35:15,119 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-22 21:16:11,944 [INFO] Activator:178 - 
+
+
+2020-08-22 21:16:11,954 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-23 01:08:55,738 [INFO] Activator:178 - 
+
+
+2020-08-23 01:08:55,746 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-24 12:16:30,259 [INFO] Activator:178 - 
+
+
+2020-08-24 12:16:30,268 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-25 11:35:35,867 [INFO] Activator:178 - 
+
+
+2020-08-25 11:35:35,876 [INFO] Activator:179 - !SESSION log4j initialized
+2020-08-29 16:13:36,761 [INFO] Activator:178 - 
+
+
+2020-08-29 16:13:36,770 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-01 11:46:55,325 [INFO] Activator:178 - 
+
+
+2020-09-01 11:46:55,333 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-03 00:14:06,595 [INFO] Activator:178 - 
+
+
+2020-09-03 00:14:06,602 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-03 11:18:17,438 [INFO] Activator:178 - 
+
+
+2020-09-03 11:18:17,443 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-05 11:38:09,182 [INFO] Activator:178 - 
+
+
+2020-09-05 11:38:09,190 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-06 12:09:59,543 [INFO] Activator:178 - 
+
+
+2020-09-06 12:09:59,551 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-07 10:49:31,322 [INFO] Activator:178 - 
+
+
+2020-09-07 10:49:31,328 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-07 23:26:35,232 [INFO] Activator:178 - 
+
+
+2020-09-07 23:26:35,240 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-09 11:41:31,474 [INFO] Activator:178 - 
+
+
+2020-09-09 11:41:31,481 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-09 11:43:47,936 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2020-09-09 11:43:47,945 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-09-10 20:36:38,619 [INFO] Activator:178 - 
+
+
+2020-09-10 20:36:38,637 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-11 16:57:23,761 [INFO] Activator:178 - 
+
+
+2020-09-11 16:57:23,769 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-11 17:07:33,508 [INFO] Activator:178 - 
+
+
+2020-09-11 17:07:33,528 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-11 17:08:41,635 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2020-09-11 17:08:41,651 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2020-09-11 21:21:56,472 [INFO] Activator:178 - 
+
+
+2020-09-11 21:21:56,477 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-17 16:23:25,570 [INFO] Activator:178 - 
+
+
+2020-09-17 16:23:25,584 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-23 11:26:01,402 [INFO] Activator:178 - 
+
+
+2020-09-23 11:26:01,402 [INFO] Activator:179 - !SESSION log4j initialized
+2020-09-23 13:27:08,528 [INFO] Activator:178 - 
+
+
+2020-09-23 13:27:08,538 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-02 00:29:47,948 [INFO] Activator:178 - 
+
+
+2020-10-02 00:29:47,965 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-13 12:43:50,069 [INFO] Activator:178 - 
+
+
+2020-10-13 12:43:50,081 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-16 16:05:59,766 [INFO] Activator:178 - 
+
+
+2020-10-16 16:05:59,779 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-17 17:55:28,559 [INFO] Activator:178 - 
+
+
+2020-10-17 17:55:28,569 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 07:46:50,929 [INFO] Activator:178 - 
+
+
+2020-10-18 07:46:50,939 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 09:15:38,420 [INFO] Activator:178 - 
+
+
+2020-10-18 09:15:38,428 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 11:47:13,778 [INFO] Activator:178 - 
+
+
+2020-10-18 11:47:13,783 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 11:52:30,484 [INFO] Activator:178 - 
+
+
+2020-10-18 11:52:30,484 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 12:15:52,652 [INFO] Activator:178 - 
+
+
+2020-10-18 12:15:52,656 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 12:16:33,613 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2020-10-18 12:16:33,623 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2020-10-18 12:25:22,185 [INFO] Activator:178 - 
+
+
+2020-10-18 12:25:22,185 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 12:45:20,325 [INFO] Activator:178 - 
+
+
+2020-10-18 12:45:20,335 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 12:49:43,037 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Artifact repository out of sync. Overwriting C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2020-10-18 14:36:22,790 [INFO] Activator:178 - 
+
+
+2020-10-18 14:36:22,810 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 18:24:37,497 [INFO] Activator:178 - 
+
+
+2020-10-18 18:24:37,497 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-18 22:35:08,304 [INFO] Activator:178 - 
+
+
+2020-10-18 22:35:08,318 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-19 17:42:36,002 [INFO] Activator:178 - 
+
+
+2020-10-19 17:42:36,014 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-19 18:10:38,925 [INFO] Activator:178 - 
+
+
+2020-10-19 18:10:38,925 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-19 18:15:35,408 [INFO] Activator:178 - 
+
+
+2020-10-19 18:15:35,423 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-19 19:11:36,195 [INFO] Activator:178 - 
+
+
+2020-10-19 19:11:36,210 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-19 19:38:34,027 [INFO] Activator:178 - 
+
+
+2020-10-19 19:38:34,039 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-19 20:04:26,297 [INFO] Activator:178 - 
+
+
+2020-10-19 20:04:26,305 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-20 09:45:03,413 [INFO] Activator:178 - 
+
+
+2020-10-20 09:45:03,429 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-20 19:25:07,145 [INFO] Activator:178 - 
+
+
+2020-10-20 19:25:07,255 [INFO] Activator:179 - !SESSION log4j initialized
+2020-10-21 10:44:15,248 [INFO] Activator:178 - 
+
+
+2020-10-21 10:44:15,266 [INFO] Activator:179 - !SESSION log4j initialized
+2020-11-02 18:20:01,948 [INFO] Activator:178 - 
+
+
+2020-11-02 18:20:01,966 [INFO] Activator:179 - !SESSION log4j initialized
+2020-11-05 12:55:27,870 [INFO] Activator:178 - 
+
+
+2020-11-05 12:55:27,888 [INFO] Activator:179 - !SESSION log4j initialized
+2020-11-05 12:55:38,709 [INFO] RetryExec:97 - I/O exception (java.io.IOException) caught when processing request to {}->http://sw-center.st.com:80: Socket output is shutdown
+2020-11-05 12:55:38,714 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-11-06 16:49:39,313 [INFO] Activator:178 - 
+
+
+2020-11-06 16:49:39,332 [INFO] Activator:179 - !SESSION log4j initialized
+2020-11-10 12:04:35,371 [INFO] Activator:178 - 
+
+
+2020-11-10 12:04:35,386 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-22 15:51:38,127 [INFO] Activator:178 - 
+
+
+2021-03-22 15:51:38,140 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-22 15:51:46,347 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:51:46,351 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:51:46,614 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:51:46,614 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:51:47,993 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:51:47,994 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:51:48,730 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:51:48,730 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:51:49,232 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:51:49,233 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:51:49,749 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:51:49,749 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:51:51,653 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:51:51,653 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:51:54,511 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:51:54,511 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:51:59,736 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:51:59,736 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:52:00,643 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:52:00,643 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 15:52:17,830 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 15:52:17,830 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-23 12:42:44,013 [INFO] Activator:178 - 
+
+
+2021-03-23 12:42:44,047 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-10 14:45:39,250 [INFO] Activator:178 - 
+
+
+2021-06-10 14:45:39,257 [INFO] Activator:179 - !SESSION log4j initialized
+2021-07-13 12:54:10,397 [INFO] Activator:178 - 
+
+
+2021-07-13 12:54:10,406 [INFO] Activator:179 - !SESSION log4j initialized
+2021-07-13 12:54:41,192 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2021-07-13 12:54:41,199 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2021-07-13 12:54:46,632 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2021-07-13 12:54:46,633 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2021-09-28 13:46:17,706 [INFO] Activator:178 - 
+
+
+2021-09-28 13:46:17,717 [INFO] Activator:179 - !SESSION log4j initialized
+2021-09-28 14:44:36,747 [INFO] Activator:178 - 
+
+
+2021-09-28 14:44:36,755 [INFO] Activator:179 - !SESSION log4j initialized

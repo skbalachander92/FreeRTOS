@@ -1,0 +1,8 @@
+main.c:37:5:main	32	static
+main.c:72:6:vTask1_handler	24	static
+main.c:85:6:vTask2_handler	24	static
+main.c:115:13:pvtHardwareSetup	8	static
+main.c:125:13:GPIO_Setup	24	static
+main.c:150:13:UART2_Setup	32	static
+main.c:184:6:printmsg	24	static
+main.c:193:6:rtos_delay	24	static

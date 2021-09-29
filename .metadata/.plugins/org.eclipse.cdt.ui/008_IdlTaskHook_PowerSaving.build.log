@@ -1,0 +1,19 @@
+12:56:29 **** Incremental Build of configuration Debug for project 008_IdlTaskHook_PowerSaving ****
+make -j8 all 
+arm-none-eabi-gcc -o "008_IdlTaskHook_PowerSaving.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\WORKSPACE\stm32cubeIDE_Workspace\masteringRTOS\RTOS_MyWorkspace\008_IdlTaskHook_PowerSaving\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="008_IdlTaskHook_PowerSaving.map" -Wl,--gc-sections -static -specs=rdimon.specs -lc -lrdimon --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 008_IdlTaskHook_PowerSaving.elf
+ 
+arm-none-eabi-objdump -h -S  008_IdlTaskHook_PowerSaving.elf  > "008_IdlTaskHook_PowerSaving.list"
+arm-none-eabi-objcopy  -O binary  008_IdlTaskHook_PowerSaving.elf  "008_IdlTaskHook_PowerSaving.bin"
+arm-none-eabi-size   008_IdlTaskHook_PowerSaving.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18120	    152	  88640	 106912	  1a1a0	008_IdlTaskHook_PowerSaving.elf
+Finished building: default.size.stdout
+ 
+Finished building: 008_IdlTaskHook_PowerSaving.bin
+ 
+Finished building: 008_IdlTaskHook_PowerSaving.list
+ 
+
+12:56:30 Build Finished. 0 errors, 0 warnings. (took 822ms)
+

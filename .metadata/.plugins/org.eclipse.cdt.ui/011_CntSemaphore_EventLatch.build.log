@@ -1,0 +1,10 @@
+13:12:28 **** Incremental Build of configuration Debug for project 011_CntSemaphore_EventLatch ****
+make -j8 all 
+arm-none-eabi-size   011_CntSemaphore_EventLatch.elf 
+   text	   data	    bss	    dec	    hex	filename
+  19836	     48	  88624	 108508	  1a7dc	011_CntSemaphore_EventLatch.elf
+Finished building: default.size.stdout
+ 
+
+13:12:29 Build Finished. 0 errors, 0 warnings. (took 548ms)
+

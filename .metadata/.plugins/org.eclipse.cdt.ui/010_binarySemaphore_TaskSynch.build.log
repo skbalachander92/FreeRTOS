@@ -1,0 +1,20 @@
+17:07:10 **** Incremental Build of configuration Debug for project 010_binarySemaphore_TaskSynch ****
+make -j8 all 
+arm-none-eabi-gcc "../src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DSTM32F446xx -DSTM32 -DUSE_STDPERIPH_DRIVER -DSTM32F4 -DSTM32F446RETx -DDEBUG -DNUCLEO_F446RE -c -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/CMSIS/core" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/Third-party/SEGGER/Config" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/Third-party/SEGGER/OS" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/Third-party/SEGGER/SEGGER" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/Config" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/Third-party/FreeRTOS/org/Source/include" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/Third-party/FreeRTOS/org/Source/portable/GCC/ARM_CM4F" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/CMSIS/device" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/inc" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/010_binarySemaphore_TaskSynch/StdPeriph_Driver/inc" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"src/main.d" -MT"src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "src/main.o"
+arm-none-eabi-gcc -o "010_binarySemaphore_TaskSynch.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\WORKSPACE\stm32cubeIDE_Workspace\masteringRTOS\RTOS_MyWorkspace\010_binarySemaphore_TaskSynch\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="010_binarySemaphore_TaskSynch.map" -Wl,--gc-sections -static -specs=rdimon.specs -lc -lrdimon --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 010_binarySemaphore_TaskSynch.elf
+ 
+arm-none-eabi-objdump -h -S  010_binarySemaphore_TaskSynch.elf  > "010_binarySemaphore_TaskSynch.list"
+arm-none-eabi-objcopy  -O binary  010_binarySemaphore_TaskSynch.elf  "010_binarySemaphore_TaskSynch.bin"
+arm-none-eabi-size   010_binarySemaphore_TaskSynch.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22836	    152	  88648	 111636	  1b414	010_binarySemaphore_TaskSynch.elf
+Finished building: default.size.stdout
+ 
+Finished building: 010_binarySemaphore_TaskSynch.list
+Finished building: 010_binarySemaphore_TaskSynch.bin
+ 
+ 
+
+17:07:11 Build Finished. 0 errors, 0 warnings. (took 1s.615ms)
+

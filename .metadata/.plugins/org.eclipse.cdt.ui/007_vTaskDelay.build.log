@@ -1,0 +1,20 @@
+13:02:36 **** Incremental Build of configuration Debug for project 007_vTaskDelay ****
+make -j8 all 
+arm-none-eabi-gcc "../src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DSTM32F446xx -DSTM32 -DUSE_STDPERIPH_DRIVER -DSTM32F4 -DSTM32F446RETx -DDEBUG -DNUCLEO_F446RE -c -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/CMSIS/core" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/Third-party/SEGGER/Config" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/Third-party/SEGGER/OS" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/Third-party/SEGGER/SEGGER" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/Config" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/Third-party/FreeRTOS/org/Source/include" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/Third-party/FreeRTOS/org/Source/portable/GCC/ARM_CM4F" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/CMSIS/device" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/inc" -I"D:/WORKSPACE/stm32cubeIDE_Workspace/masteringRTOS/RTOS_MyWorkspace/007_vTaskDelay/StdPeriph_Driver/inc" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"src/main.d" -MT"src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "src/main.o"
+arm-none-eabi-gcc -o "007_vTaskDelay.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\WORKSPACE\stm32cubeIDE_Workspace\masteringRTOS\RTOS_MyWorkspace\007_vTaskDelay\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="007_vTaskDelay.map" -Wl,--gc-sections -static -specs=rdimon.specs -lc -lrdimon --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 007_vTaskDelay.elf
+ 
+arm-none-eabi-objdump -h -S  007_vTaskDelay.elf  > "007_vTaskDelay.list"
+arm-none-eabi-objcopy  -O binary  007_vTaskDelay.elf  "007_vTaskDelay.bin"
+arm-none-eabi-size   007_vTaskDelay.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18120	    152	  88640	 106912	  1a1a0	007_vTaskDelay.elf
+Finished building: default.size.stdout
+ 
+Finished building: 007_vTaskDelay.bin
+ 
+Finished building: 007_vTaskDelay.list
+ 
+
+13:02:38 Build Finished. 0 errors, 0 warnings. (took 1s.999ms)
+

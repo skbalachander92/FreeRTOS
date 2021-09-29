@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="EXPORT_DIALOG">
+		<item key="Start" value="0x20013224"/>
+		<item key="End" value="0x20015224"/>
+		<item key="Initial address" value="0x20013224"/>
+		<item key="File" value="D:\WORKSPACE\stm32cubeIDE_Workspace\masteringRTOS\RTOS_MyWorkspace\001_HelloWorld\SEGGER_Mem_Dumps\003_LED_BUTTON_IT.SVdat"/>
+		<item key="SELECTED_EXPORTER" value="rawbinary"/>
+	</section>
+</section>
